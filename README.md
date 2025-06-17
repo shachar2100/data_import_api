@@ -71,20 +71,20 @@ You may deploy each component independently:
 
 ### User Interface
 
-![Login Screen](./images/Login_Page.png)
+![Login Screen](./Images/Login_Page.png)
 *Login interface with user authentication*
 
-![Dashboard](./images/Once_Logged_In.png)
+![Dashboard](./Images/Once_Logged_In.png)
 *Main dashboard showing leads and filtering options*
 
-![CSV Import](./images/Import_CSV.png)
+![CSV Import](./Images/Import_CSV.png)
 *Drag-and-drop CSV import interface*
 
-![Lead Management](./images/Filter.png)
+![Lead Management](./Images/Filter.png)
 *Interactive lead management table with filtering*
 
 
-![Lead Management](./images/Alice_Medium.png)
+![Lead Management](./Images/Alice_Medium.png)
 *Intrest Level == Medium and SalesPerson==Alice Filered*
 
 
