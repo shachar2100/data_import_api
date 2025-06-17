@@ -20,7 +20,7 @@ This project consists of two main components:
 * Provides an interactive dashboard for users
 * Supports CSV drag-and-drop import, filtering, and session management
 * Uses Material-UI and Axios for a modern experience
-  ➡ See [`frontend/README.md`](./frontend/README.md) for full details
+  ➡ See [`FrontEnd/README.md`](./frontend/README.md) for full details
 
 ---
 
