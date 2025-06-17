@@ -1,6 +1,6 @@
 # Leads Management System Frontend
 
-A modern React-based frontend for managing leads and customer data. This application provides a user-friendly interface for importing, viewing, and filtering lead information.
+A modern React-based FrontEnd for managing leads and customer data. This application provides a user-friendly interface for importing, viewing, and filtering lead information.
 
 ## Features
 
@@ -24,9 +24,9 @@ A modern React-based frontend for managing leads and customer data. This applica
 ## Getting Started
 
 1. Make sure you have Node.js installed on your system
-2. Navigate to the frontend directory:
+2. Navigate to the FrontEnd directory:
    ```bash
-   cd frontend
+   cd FrontEnd
    ```
 3. Install dependencies:
    ```bash
